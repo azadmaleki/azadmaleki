@@ -1,6 +1,10 @@
 # Hi there, I'm Hossein! 👋
 
-I'm a second-year Master of Science student in Artificial Intelligence at the University of Tehran. Previously, I worked as an Android developer, honing my skills in mobile app development.But currently, my research interests revolve around artificial intelligence, with a specific focus on natural language processing and spoken language processing. I enjoy coding with Python, Java, Kotlin, and R, and I'm always enthusiastic about expanding my knowledge, explore new avenues, and collaborate and contribute to meaningful projects in this field of AI.
+I'm a second-year Master of Science student in Artificial Intelligence at the University of Tehran. My research interests are centered around artificial intelligence, with a specific focus on natural language processing and spoken language processing. Python, Java, Kotlin, and R are my go-to coding languages, and I'm always eager to learn and collaborate on meaningful AI projects.
+
+Here on GitHub, I'm excited to engage with fellow enthusiasts, expand my knowledge, and contribute to innovative AI endeavors. 
+
+... and the end ... no ... wait, I'm also a retired professional Android developer :)
 
 - 📫 How to reach me: hosein.azadmaleki@gmail.com
  
