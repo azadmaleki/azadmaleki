@@ -6,5 +6,5 @@ Here on GitHub, I'm excited to engage with fellow enthusiasts, expand my knowled
 
 ... and the end ... no ... wait, I'm also a retired professional Android developer :)
 
-- 📫 How to reach me: hosein.azadmaleki@gmail.com
+- 📫 How to reach me: h.azadmaleki@gmail.com
  
