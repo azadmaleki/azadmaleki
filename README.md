@@ -7,7 +7,7 @@ I'm an AI researcher/engineer
 - 🤝 Collaborating with SpeechCARE research group @ Columbia University
 - 🧠 Experience with depression and cognitive decline detection using speech  
 - 🛠️ Skills: Python, Java, Kotlin, R, C#, JavaScript, and HTML/CSS (not technically a language 😉)  
-- 💡 Interests: Speech/NLP, deep generative models, explainable AI  
+- 💡 Interests: Speech/NLP, deep generative models, VLMs, explainable AI  
 - 👨‍💻 Ex-Android dev  
 
 Here on GitHub, I share my code, experiments, and projects.  
