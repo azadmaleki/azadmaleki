@@ -8,7 +8,7 @@ I'm an AI researcher/engineer
 - 🧠 Experience with depression and cognitive decline detection using speech  
 - 🛠️ Skills: Python, Java, Kotlin, R, C#, JavaScript, and HTML/CSS (not technically a language 😉)  
 - 💡 Interests: Speech/NLP, deep generative models, VLMs, explainable AI  
-- 👨‍💻 Ex-Android dev  
+- 👨‍💻 Ex-Android developer
 
 Here on GitHub, I share my code, experiments, and projects.  
 Always happy to connect, collaborate, or discuss meaningful AI research/projects.  
