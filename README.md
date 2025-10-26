@@ -1,10 +1,16 @@
-# Hi there, I'm Hossein! 👋
+# 👋 Hi, I’m Hossein
 
-I'm a second-year Master of Science student in Artificial Intelligence at the University of Tehran. My research interests are centered around artificial intelligence, with a specific focus on spoken language processing and NLP. Python, Java, Kotlin, R, and C# are my go-to coding languages, and I am also familiar with HTML/CSS and JavaScript. I'm always eager to learn and collaborate on meaningful AI projects.
+I'm an AI researcher/engineer  
 
-Here on GitHub, I'm excited to engage with fellow enthusiasts, expand my knowledge, and contribute to innovative AI endeavors. 
+- 🎓 M.Sc. in Artificial Intelligence – University of Tehran  
+- 🔍 Current research focus: Spoken language processing, cognitive & mental health AI  
+- 🤝 Collaborating with SpeechCARE, Columbia University research group  
+- 🧠 Experience with depression and cognitive decline detection using speech  
+- 🛠️ Skills: Python, Java, Kotlin, R, C#, JavaScript, and HTML/CSS (not technically a language 😉)  
+- 💡 Interests: Speech/NLP, deep generative models, explainable AI  
+- 👨‍💻 Ex-Android dev  
 
-... and the end ... no ... wait, I'm also a retired professional Android developer :)
+Here on GitHub, I share my code, experiments, and projects.  
+Always happy to connect, collaborate, or discuss meaningful AI research/projects.  
 
-- 📫 How to reach me: h.azadmaleki@gmail.com
- 
+📫 How to reach me: [h.azadmaleki@gmail.com](mailto:h.azadmaleki@gmail.com)
