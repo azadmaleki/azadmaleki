@@ -4,7 +4,7 @@ I'm an AI researcher/engineer
 
 - 🎓 M.Sc. in Artificial Intelligence – University of Tehran  
 - 🔍 Current research focus: Spoken language processing, cognitive & mental health AI  
-- 🤝 Collaborating with SpeechCARE, Columbia University research group  
+- 🤝 Collaborating with SpeechCARE research group @ Columbia University
 - 🧠 Experience with depression and cognitive decline detection using speech  
 - 🛠️ Skills: Python, Java, Kotlin, R, C#, JavaScript, and HTML/CSS (not technically a language 😉)  
 - 💡 Interests: Speech/NLP, deep generative models, explainable AI  
