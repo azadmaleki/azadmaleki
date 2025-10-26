@@ -10,7 +10,7 @@ I'm an AI researcher/engineer
 - 💡 Interests: Speech/NLP, deep generative models, VLMs, explainable AI  
 - 👨‍💻 Ex-Android developer
 
-Here on GitHub, I share my code, experiments, and projects.  
+Here on GitHub, I share my codes, experiments, and projects.  
 Always happy to connect, collaborate, or discuss meaningful AI research/projects.  
 
 📫 How to reach me: [h.azadmaleki@gmail.com](mailto:h.azadmaleki@gmail.com)
